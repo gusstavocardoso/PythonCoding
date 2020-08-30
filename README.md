@@ -1,3 +1,3 @@
 # PythonCoding
 
-####  Repositório para estudos da lingugem Python
+#####  Repositório para estudos da linguagem Python
