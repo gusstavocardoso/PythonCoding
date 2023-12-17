@@ -1,8 +1,0 @@
-print(True)
-print(False)
-print(1.2 + 1)
-print('Strings...')
-print('Mesclando dados' + 3 * ' 3 vezes! ')
-print([1, 2, 3])
-print({'nome': 'Pedro', 'idade': 22})
-print(None)
