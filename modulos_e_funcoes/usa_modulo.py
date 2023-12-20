@@ -1,4 +1,5 @@
 from cria_modulo import soma, media, potencia
-print ("sum:", soma(10,20))
-print ("average:", media(10,20))
-print ("power:", potencia(10, 2))
+
+print ("soma:", soma(10,20))
+print ("media:", media(10,20))
+print ("potencia:", potencia(10, 2))
